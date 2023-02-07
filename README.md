@@ -4,7 +4,7 @@
 
 Please check the official laravel installation guide for server requirements and installation before you start. [Laravel Documentation](https://laravel.com/docs/7.x)
 
-The FFMpeg library is used in the app for video conversions, I have already included the necessary executables ( ffmpeg and ffprobe) for MacOS, if you are using another OS, download the libraries from this [link](https://ffmpeg.org/download.html) and replace the library executable in the root of your project.
+The FFMpeg library is used in the app for video conversions, download the library from this [link](https://ffmpeg.org/download.html) and paste the library executable in the root of your project.
 
 **TL;DR command list**
 
